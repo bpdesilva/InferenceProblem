@@ -1,4 +1,4 @@
-# InferenceProblem
+# Inference Problem
 Inferencing solution for a knowledge base system using prolog. 
 
 #### Task 2
